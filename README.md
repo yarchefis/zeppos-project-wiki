@@ -8,7 +8,7 @@ You have arrived at the official documentation hub for my ZeppOS projects. To ex
 
 ### Important:
 - If you are using the GitHub mobile app, please open the link in your browser for the best experience.
-- For more projects and updates, visit my official website: [yardev.su](https://yardev.su)
+- For more projects and updates, visit my official website: [yardev.su](https://yardev.pw)
 
 ### Special Thanks
 A huge thank you to [luckusmiSU](https://github.com/luckusmiSU) for helping create all the documentation pages!
@@ -25,7 +25,7 @@ A huge thank you to [luckusmiSU](https://github.com/luckusmiSU) for helping crea
 
 ### Важно:
 - Если вы используете мобильное приложение GitHub, откройте ссылку в браузере для корректного отображения.
-- Больше информации и другие проекты доступны на моем сайте: [yardev.su](https://yardev.su)
+- Больше информации и другие проекты доступны на моем сайте: [yardev.su](https://yardev.pw)
 
 ### Особая благодарность
 Огромное спасибо [luckusmiSU](https://github.com/luckusmiSU) за помощь в создании всех страниц документации!
